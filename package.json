@@ -9,6 +9,7 @@
   "author": "Ali Abdulle",
   "license": "ISC",
   "dependencies": {
+    "@zeit/next-css": "^1.0.1",
     "express": "^4.17.1",
     "next": "^9.2.2",
     "react": "^16.12.0",
