@@ -1,5 +1,5 @@
 import './Card.css';
-
+// Card page
 const Card = (props) =>  (
     <div className="card">
       <div className="front">
