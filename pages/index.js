@@ -1,7 +1,7 @@
 import Link from 'next/link';
 import "./index.css";
 import Card from "./Card";
-
+//Index page
 export default () => (
   <div className="App">
     <header className="App-header">
